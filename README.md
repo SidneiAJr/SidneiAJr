@@ -3,14 +3,6 @@
 **`Desenvolvedor`**
 
 Me chamo Albertaodasmassa, tenho 27 anos. Sou formado em Curso técnico em informática, Tambem sou formado em ADS(Analise e desevolvimento de sistema) desde 2020 e tambem tenho formação em Segruança da Informação. Compartilho meu conhecimento com meu canal de tutoriais do meu canal no YouTube "[@sidnei15100](https://www.youtube.com/@sidnei15100/videos)", onde ensino a criar projetos web.
-<p align="left">
-    <a href="https://www.youtube.com/@sidnei15100/videos">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
 
 ---
 
