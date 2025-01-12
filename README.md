@@ -4,8 +4,6 @@
 
 Me chamo Albertaodasmassa, tenho 27 anos. Sou formado em Curso técnico em informática, Tambem sou formado em ADS(Analise e desevolvimento de sistema) desde 2020 e tambem tenho formação em Segruança da Informação. Compartilho meu conhecimento com meu canal de tutoriais do meu canal no YouTube "[@sidnei15100](https://www.youtube.com/@sidnei15100/videos)", onde ensino a criar projetos web.
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
