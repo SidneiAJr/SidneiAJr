@@ -1,7 +1,3 @@
-# 👩🏻‍💻 Albertaodasmassa
-
-**`Desenvolvedor`**
-
 Me chamo Albertaodasmassa, tenho 27 anos. Sou formado em informática, Tenho outras duas formações Analise e desevolvimento de sistema desde 2020, em Segurança da Informação. Compartilho meu conhecimento com meu canal de tutoriais YouTube "[@sidnei15100](https://www.youtube.com/@sidnei15100/videos)".
 
 ### 🤖 Linguagens e Tecnologias
