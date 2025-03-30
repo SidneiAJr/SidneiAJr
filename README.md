@@ -94,11 +94,11 @@ Me chamo Albertaodasmassa, tenho 27 anos. Sou formado em informática, Tenho out
 <br/>
 <br/>
 ## Sobre Meus Respositorios:
-1 - Estudo de Programação [aqui](https://github.com/SidneiAJr/Prog_dev_est)
+1 - Estudo de Programação [Acesse Aqui](https://github.com/SidneiAJr/Prog_dev_est)
 
-2- Desolvimento de Jogos [aqui](https://github.com/SidneiAJr/Jogo_Senac_Curso)
+2- Desolvimento de Jogos [Acesse Aqui](https://github.com/SidneiAJr/Jogo_Senac_Curso)
 
-3- Projeto do APK Multifunção[aqui](https://github.com/SidneiAJr/APK_Multifunc)
+3- Projeto do APK Multifunção[Acesse Aqui](https://github.com/SidneiAJr/APK_Multifunc)
 
 ### 📊 Estatísticas
 
