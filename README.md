@@ -91,8 +91,6 @@ Me chamo Albertaodasmassa, tenho 27 anos. Sou formado em informática, Tenho out
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
 />
-
-
 <br/>
 <br/>
 
@@ -106,3 +104,10 @@ Me chamo Albertaodasmassa, tenho 27 anos. Sou formado em informática, Tenho out
   />
 
 </p>
+## Sobre Meus Respositorios:
+1 - Estudo de Programação [aqui](https://github.com/SidneiAJr/Prog_dev_est)
+
+2- Desolvimento de Jogos [aqui](https://github.com/SidneiAJr/Jogo_Senac_Curso)
+
+3- Projeto do APK Multifunção[aqui](https://github.com/SidneiAJr/APK_Multifunc)
+
