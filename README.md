@@ -104,7 +104,14 @@ Me chamo Albertaodasmassa, tenho 27 anos. Sou formado em informática, Tenho out
 
 5- Portifolio WEB [Acesse Aqui](https://sidneiajr.github.io/Front_senac/pot/)
 
-6- Repositorio 3000TI Senac JS [Acesse Aqui](https://github.com/SidneiAJr/3000TI-Senac-JS)
+6- <img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
+/> Repositorio 3000TI Senac JS [Acesse Aqui](https://github.com/SidneiAJr/3000TI-Senac-JS)
 
 7- Link para Ferramentas Open source [Acesse Aqui](https://sidneiajr.github.io/OpenSource_WEB_Pag/)
 
