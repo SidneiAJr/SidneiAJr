@@ -1,10 +1,10 @@
-🎓 Formado em Análise e Desenvolvimento de Sistemas
+## 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-🔐 Especialização em Segurança da Informação
+## 🔐 Especialização em Segurança da Informação
 
-🎥 Criador de conteúdo no YouTube — Tutoriais de programação e tech
+## 🎥 Criador de conteúdo no YouTube — Tutoriais de programação e tech
 
-💼 Buscando oportunidades como Dev Júnior
+## 💼 Buscando oportunidades como Dev Júnior
 
 ### 🤖 Linguagens e Tecnologias
 
