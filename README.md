@@ -1,4 +1,5 @@
-Me chamo Albertaodasmassa, tenho 27 anos. Sou formado em informática, Tenho outras duas formações Analise e desevolvimento de sistema desde 2020, em Segurança da Informação. Compartilho meu conhecimento com meu canal de tutoriais YouTube "[@sidnei15100](https://www.youtube.com/@sidnei15100/videos)".
+Me chamo Albertaodasmassa, tenho 27 anos. Sou formado em informática, Tenho outras duas formações Analise e desevolvimento de sistema desde 2020, em Segurança da Informação desde 2023. Compartilho meu conhecimento com meu canal de tutoriais YouTube "[@sidnei15100](https://www.youtube.com/@sidnei15100/videos)".
+Tenho Algum projetos Abaixo:
 
 ### 🤖 Linguagens e Tecnologias
 
