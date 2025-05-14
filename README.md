@@ -114,7 +114,7 @@
 
 7- Link para Ferramentas Open source [Acesse Aqui](https://sidneiajr.github.io/OpenSource_WEB_Pag/)
 
-8- TDS 
+8- TDS [Acesse Aqui](https://github.com/SidneiAJr/TDS_2025)
 
 ### 📊 Estatísticas
 
