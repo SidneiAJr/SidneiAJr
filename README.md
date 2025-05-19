@@ -116,6 +116,8 @@
 
 8- TDS [Acesse Aqui](https://github.com/SidneiAJr/TDS_2025)
 
+9- Alura Next Education Aulas & Desafios [Acesse Aqui](https://github.com/SidneiAJr/Alura_desafios_Next_Education)
+
 ### 📊 Estatísticas
 
 <img 
