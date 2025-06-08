@@ -2,8 +2,6 @@
 
 ### 🔐 Especialização em Segurança da Informação
 
-### 🎥 Criador de conteúdo no YouTube — Tutoriais de programação e tech
-
 ### 💼 Buscando oportunidades como Dev Júnior
 
 ### 🤖 Linguagens e Tecnologias
