@@ -112,7 +112,7 @@
 
 7- Link para Ferramentas Open source [Acesse Aqui](https://sidneiajr.github.io/OpenSource_WEB_Pag/)
 
-8- TDS [Acesse Aqui](https://github.com/SidneiAJr/TDS_2025)
+8- TDS_Senac [Acesse Aqui](https://github.com/SidneiAJr/TDS_2025)
 
 9- Alura Next Education Aulas & Desafios [Acesse Aqui](https://github.com/SidneiAJr/Alura_desafios_Next_Education)
 
