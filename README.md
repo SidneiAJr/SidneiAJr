@@ -1,6 +1,6 @@
 ### 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-### 🔐 Especialização em Segurança da Informação
+### 🔐 Formado em Segurança da Informação
 
 ### 💼 Buscando oportunidades como Dev Júnior
 
