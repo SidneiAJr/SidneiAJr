@@ -1,5 +1,3 @@
-### Portifolio [Acesse Aqui](Link par Portifolio: https://sidneiajr.github.io/Front_senac/)
-
 ### 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 ### 🔐 Formado em Segurança da Informação
