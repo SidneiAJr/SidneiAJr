@@ -2,6 +2,8 @@
 
 ### 🔐 Formado em Segurança da Informação
 
+### 🔐 Cursando TDS
+
 ### 💼 Buscando oportunidades como Dev Júnior
 
 ### 🤖 Linguagens e Tecnologias
