@@ -2,7 +2,7 @@
 
 ### 🔐 Formado em Segurança da Informação
 
-### 🔐 Cursando TDS
+### 🔐 Cursando Tecnico em Desevolvimento em Sistemas
 
 ### 💼 Buscando oportunidades como Dev Júnior
 
