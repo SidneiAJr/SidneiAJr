@@ -1,3 +1,11 @@
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneiAJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+
 ### 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 ### 🔐 Formado em Segurança da Informação
@@ -111,13 +119,6 @@
 9- Programador Web [Acesse Aqui](https://github.com/SidneiAJr/Senac_programador_Web)
 
 ### 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneiAJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
 
