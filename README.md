@@ -7,18 +7,19 @@
   />    
 </p>
 
+### 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 
-### 🎓 Formado em Análise e Desenvolvimento de Sistemas
+### 🔐 Formado em Segurança da Informação  
 
-### 🔐 Formado em Segurança da Informação
+### 📘 Cursando Técnico em Desenvolvimento de Sistemas - Senac  
 
-### 🔐 Cursando Tecnico em Desevolvimento em Sistemas - Senac
+### 🎓 Formado em Informática - São Luis  
 
-### 🎓 Formado em Informatica São Luis
+### 💼 Buscando oportunidades como Dev Júnior  
 
-### 💼 Buscando oportunidades como Dev Júnior
+---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias  
 
 <img 
     align="left" 
@@ -44,7 +45,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -75,7 +75,7 @@
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img 
     align="left" 
@@ -101,28 +101,34 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
 />
+
 <br/>
 <br/>
-## 📂Sobre Meus Respositorios:
-1 - Estudo de Programação [Acesse Aqui](https://github.com/SidneiAJr/Prog_dev_est)
+---
 
-2- Desolvimento de Jogos [Acesse Aqui](https://github.com/SidneiAJr/Jogo_Senac_Curso)
+## 📂 Sobre Meus Repositórios  
 
-3- Projetos Web em JS [Acesse Aqui](https://github.com/SidneiAJr/Front_senac)
+1 - Estudo de Programação → [Acesse Aqui](https://github.com/SidneiAJr/Prog_dev_est)  
 
-5- Portifolio WEB [Acesse Aqui](https://sidneiajr.github.io/Front_senac/pot/)
+2 - Desenvolvimento de Jogos → [Acesse Aqui](https://github.com/SidneiAJr/Jogo_Senac_Curso)  
 
-6- Repositorio 3000TI Senac JS [Acesse Aqui](https://github.com/SidneiAJr/3000TI)
+3 - Projetos Web em JS → [Acesse Aqui](https://github.com/SidneiAJr/Front_senac)  
 
-7- Link para Ferramentas Open source [Acesse Aqui](https://sidneiajr.github.io/OpenSource_WEB_Pag/)
+4 - Portfólio WEB → [Acesse Aqui](https://sidneiajr.github.io/Front_senac/pot/)  
 
-8- TDS_Senac [Acesse Aqui](https://github.com/SidneiAJr/TDS_2025)
+5 - Repositório 3000TI Senac JS → [Acesse Aqui](https://github.com/SidneiAJr/3000TI)  
 
-9- Programador Web [Acesse Aqui](https://github.com/SidneiAJr/Senac_programador_Web)
+6 - Ferramentas Open Source → [Acesse Aqui](https://sidneiajr.github.io/OpenSource_WEB_Pag/)  
 
-### 📊 Estatísticas
+7 - TDS_Senac → [Acesse Aqui](https://github.com/SidneiAJr/TDS_2025)  
 
-</p>
+8 - Programador Web → [Acesse Aqui](https://github.com/SidneiAJr/Senac_programador_Web)  
 
+---
 
-
+### 📊 Estatísticas  
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats" 
+    height="200" 
+/>
