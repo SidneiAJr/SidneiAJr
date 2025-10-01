@@ -2,7 +2,9 @@
 
 ### 🔐 Formado em Segurança da Informação
 
-### 🔐 Cursando Tecnico em Desevolvimento em Sistemas
+### 🔐 Cursando Tecnico em Desevolvimento em Sistemas - Senac
+
+### 🎓 Formado em Informatica São Luis
 
 ### 💼 Buscando oportunidades como Dev Júnior
 
