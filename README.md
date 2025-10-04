@@ -12,19 +12,21 @@
   />   
 
 ---
-### 🎓 Formado em Análise e Desenvolvimento de Sistemas  
+### 🎓 Formação:
 
-### 🔐 Formado em Segurança da Informação  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 
-### 📘 Cursando Técnico em Desenvolvimento de Sistemas - Senac  
+- 🎓 Formado em Segurança da Informação  
 
-### 🎓 Formado em Informática - São Luis  
+- 📘 Cursando Técnico em Desenvolvimento de Sistemas - Senac  
 
-### 💼 Buscando oportunidades como Dev Júnior  
+- 🎓 Formado em Informática - São Luis  
+
+- 💼 Buscando oportunidades como Dev Júnior  
 
 ---
 
-### 🤖 Linguagens e Tecnologias  
+### 🤖 Linguagens e Tecnologias:
 
 <img 
     align="left" 
