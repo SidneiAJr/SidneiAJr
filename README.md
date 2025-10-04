@@ -31,7 +31,7 @@
 - ***Nivel de conhecimento em Linguagens***
 
 
-| Linguagem | Nível de Experiência | Uso nos Projetos |Nome do Curso| Instituição
+| 📘Linguagem | 💼Nível de Experiência | 🚀Uso nos Projetos |🏅Nome do Curso| 🏠Instituição
 |------------|----------------------|------------------|------------------|------------------|
 | HTML       | ⭐⭐⭐⭐⭐              | Front-end        | 3000Talentos   |      Senac RS/ São Luis
 | CSS        | ⭐⭐⭐⭐☆               | Estilização      | 3000Talentos    |     Senac RS / São Luis
