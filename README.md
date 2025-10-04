@@ -36,9 +36,10 @@
 | HTML       | ⭐⭐⭐⭐⭐              | Front-end        | 3000Talentos   |      Senac RS/ São Luis
 | CSS        | ⭐⭐⭐⭐☆               | Estilização      | 3000Talentos    |     Senac RS / São Luis
 | JavaScript | ⭐⭐⭐⭐☆               | Lógica / Web     | 3000Talentos      |   Senac RS / São Luis
-| PHP        | ⭐⭐⭐☆☆               | Back-end/Estudo/POO| Informatica|            Senac RS/ São Luis 
-| C#         | ⭐⭐⭐☆☆               | Desktop / Unity/Backend|  Informatica|        Senac RS/ São Luis
-| TypeScript |  ⭐⭐⭐☆☆             | Back-end/Estudo/POO |    Informatica|          Senac RS / São Luis
+| PHP        | ⭐⭐⭐☆☆               | Back-end/Estudo/POO| Informatica/TDS|            Senac RS/ São Luis 
+| JAVA        |⭐⭐☆☆                  | Back-end/Estudo/POO| Informatica/TDS|            Senac RS/ São Luis 
+| C#         | ⭐⭐⭐☆☆               | Desktop / Unity/Backend|  Informatica/DevJogo|        Senac RS/ São Luis
+| TypeScript |  ⭐⭐⭐☆☆             | Back-end/Estudo/POO |    TDS|          Senac RS 
 
 
 ## 📂 Sobre Meus Repositórios  
