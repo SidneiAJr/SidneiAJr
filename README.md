@@ -29,6 +29,7 @@
 ### 🤖 Linguagens e Tecnologias:
 
 - ***Nivel de conhecimento em Linguagens***
+
 | Linguagem | Nível de Experiência | Uso nos Projetos |Nome do Curso| Instituição
 |------------|----------------------|------------------||------------------||------------------|
 | HTML       | ⭐⭐⭐⭐⭐              | Front-end        | 3000TI         Senac RS
