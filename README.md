@@ -33,9 +33,9 @@
 
 | Linguagem | Nível de Experiência | Uso nos Projetos |Nome do Curso| Instituição
 |------------|----------------------|------------------|------------------|------------------|
-| HTML       | ⭐⭐⭐⭐⭐              | Front-end        | 3000TI    |      Senac RS
-| CSS        | ⭐⭐⭐⭐☆               | Estilização      | 3000TI    |     Senac RS
-| JavaScript | ⭐⭐⭐⭐☆               | Lógica / Web     | 3000TI      |   Senac RS
+| HTML       | ⭐⭐⭐⭐⭐              | Front-end        | 3000TI    |      Senac RS/ São Luis
+| CSS        | ⭐⭐⭐⭐☆               | Estilização      | 3000TI    |     Senac RS / São Luis
+| JavaScript | ⭐⭐⭐⭐☆               | Lógica / Web     | 3000TI      |   Senac RS / São Luis
 | PHP        | ⭐⭐⭐☆☆               | Back-end/Estudo/POO| Informatica|TDS    |          Senac RS/ São Luis 
 | C#         | ⭐⭐⭐☆☆               | Desktop / Unity/Backend|  Informatica|TDS   |      Senac RS/ São Luis
 | TypeScript |  ⭐⭐⭐☆☆             | Back-end/Estudo/POO |    Informatica|TDS     |       Senac RS / São Luis
