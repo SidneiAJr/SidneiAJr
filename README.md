@@ -1,4 +1,5 @@
-Oi 😎
+#Olá Bem vindo 😎
+
 # 📊 Estatísticas  
 <img 
     src="https://github-readme-stats.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight&hide_border=true" 
