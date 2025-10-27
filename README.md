@@ -15,7 +15,8 @@
 # ✌️ Olá Bem vindo 😎 
 
 Iniciei minha jornada na Tecnologia em 2014 quando comecei meu curso tecnico de Informatica, atualmente faço outro tecnico no senac.
-Total de Formações Até o Momento: 3
+
+***Total de Formações Até o Momento: 3***
 
 ### 🎓 Formação:
 
