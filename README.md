@@ -17,6 +17,9 @@
 Iniciei minha jornada na área de Tecnologia em 2014, quando comecei o curso técnico em Informática.
 Atualmente, estou cursando outro técnico no Senac.
 
+- Formação 2 Faculdade(ADS,SGI)
+- Formação 1 Tecnico Informatica
+
 💡 Total de formações até o momento: 3
 
 ### 🎓 Formação:
