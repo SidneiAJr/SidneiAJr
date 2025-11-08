@@ -57,17 +57,6 @@ Atualmente, estou cursando outro técnico no Senac.
 | C#         | ⭐⭐⭐☆☆               | Desktop / Unity/Backend|  Informatica/DevJogo|        Senac RS/ São Luis
 | TypeScript |  ⭐⭐⭐☆☆             | Back-end/Estudo/POO |    TDS|          Senac RS 
 
-
-### Nesse Git Encontra:
-
-<p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  height="100" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"  height="100" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="100" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="100" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height="100"/>      
-</p>
-
 ## 📂 Sobre Meus Repositórios  
 
 1 - Estudo de Programação → [Acesse Aqui](https://github.com/SidneiAJr/Prog_dev_est)  
@@ -89,3 +78,13 @@ Atualmente, estou cursando outro técnico no Senac.
 9 - Documentação de Programação -> [Acesse Aqui](https://github.com/SidneiAJr/Documentacao_Linguagens)
 
 ---
+
+### Nesse Git Encontra:
+
+<p align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  height="100" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"  height="100" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="100" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="100" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height="100"/>      
+</p>
