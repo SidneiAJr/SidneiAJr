@@ -58,19 +58,14 @@ Atualmente, estou cursando outro técnico no Senac.
 | TypeScript |  ⭐⭐⭐☆☆             | Back-end/Estudo/POO |    TDS|          Senac RS 
 
 
-Nesse Git Encontra:
+### Nesse Git Encontra:
 
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  height="100" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"  height="100" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="100" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="100" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height="100"/>
-          
-          
-          
-          
-          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height="100"/>      
 </p>
 
 ## 📂 Sobre Meus Repositórios  
