@@ -1,3 +1,13 @@
+### Nesse Git Encontra:
+
+<p align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  height="100" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"  height="100" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="100" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="100" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height="100"/>      
+</p>
+
 # 📊 Estatísticas  
 <img 
     src="https://github-readme-stats.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight&hide_border=true" 
@@ -79,12 +89,4 @@ Atualmente, estou cursando outro técnico no Senac.
 
 ---
 
-### Nesse Git Encontra:
 
-<p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  height="100" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"  height="100" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="100" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="100" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  height="100"/>      
-</p>
