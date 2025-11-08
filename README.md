@@ -58,6 +58,18 @@ Atualmente, estou cursando outro técnico no Senac.
 | TypeScript |  ⭐⭐⭐☆☆             | Back-end/Estudo/POO |    TDS|          Senac RS 
 
 
+Nesse Git Encontra:
+
+<p align="cnter">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  height="200" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"  height="200" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="200"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"  height="200" />
+          
+          
+          
+</p>
+
 ## 📂 Sobre Meus Repositórios  
 
 1 - Estudo de Programação → [Acesse Aqui](https://github.com/SidneiAJr/Prog_dev_est)  
