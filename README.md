@@ -26,7 +26,7 @@
 # ✌️ Olá Bem vindo 😎 
 
 Iniciei minha jornada na área de Tecnologia em 2014, quando comecei o curso técnico em Informática.
-Atualmente, estou cursando outro técnico no Senac.
+Atualmente, estou cursando outro técnico no Senac, sou formado em ads e segurança da informação, atualmente estudo TDS.
 
 ## Contador de formações:
 
