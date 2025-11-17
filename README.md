@@ -91,7 +91,7 @@ Atualmente, estou cursando outro técnico no Senac, sou formado em Analise e des
 
 8 - Programador Web → [Acesse Aqui](https://github.com/SidneiAJr/Senac_programador_Web)  
 
-9 - Documentação de Programação -> [Acesse Aqui](https://github.com/SidneiAJr/Documentacao_Linguagens)
+9 - Documentação -> [Acesse Aqui](https://github.com/SidneiAJr/Documentacao_Linguagens)
 
 ---
 
