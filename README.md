@@ -58,14 +58,6 @@ Atualmente, estou cursando outro técnico no Senac, sou formado em Analise e des
 
 ### 🎓 Formação:
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-
-- 🎓 Formado em Segurança da Informação.
-
-- 📘 Cursando Técnico em Desenvolvimento de Sistemas - Senac.
-
-- 🎓 Formado em Informática - São Luis.
-
 - 💼 Buscando oportunidades como Dev Júnior.
 
 ---
