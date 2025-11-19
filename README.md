@@ -13,6 +13,28 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" />
 </p>
+## Minhas Formações
+
+| Curso                              | Período         |
+|------------------------------------|-----------------|
+| ADS (Análise e Desenvolvimento de Sistemas) | 2018 a 2020     |
+| SGI (Segurança da Informação)      | 2021 a 2023     |
+| Técnico em Informática             | 2014 a 2016     |
+| Técnico em Desenvolvimento de Sistemas | 2025 a 2026 |
+
+
+## Cursos Realizados:
+
+| Curso                              | Período         
+|------------------------------------|-----------------|
+|  Curso PHP do Zero a Maestria - PHP | 2024 
+|  Curso de CyberSegurança | 2024  
+|  Curso Introdução a c++ |2024 
+|  Curso HTML JS CSS | 2024 
+|  Curso Java & Java Web | 2024 
+|  Introdução a Economia |2024
+| Introdução a Bitcon|2024
+
 
 # 📊 Estatísticas  
 <img 
