@@ -1,7 +1,5 @@
 ## 📊 Estatísticas:
 
-## 📊 Estatísticas:
-
 <div align="center">
 
   <!-- Streak Stats -->
@@ -11,7 +9,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false" height="200" alt="trophy graph" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&langs_count=10&theme=tokyonight&hide_border=false" height="200" alt="top langs" />
+ <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight&langs_count=10" />
+
 
 </div>
 
