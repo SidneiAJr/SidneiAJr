@@ -1,18 +1,20 @@
 ## 📊 Estatísticas:
 
+## 📊 Estatísticas:
+
 <div align="center">
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=sidneiajr&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="200" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=sidneiajr&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="200" />
 
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false" height="200" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false" height="200"/>
 
-  <!-- Top Languages -->
- <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight&langs_count=10" />
-
+  <!-- Top Languages (antigo e funcional) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight&langs_count=10" height="200" />
 
 </div>
+
 
 
 # ✌️ Olá, bem-vindo! 😎
