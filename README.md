@@ -1,6 +1,6 @@
 ## 📊 Estatísticas:
 
-<div style="text-align:center;">
+<div style="align:center">
 
 <img src="https://streak-stats.demolab.com?user=sidneiajr&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" /><br>
 
