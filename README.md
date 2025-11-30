@@ -1,3 +1,7 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&cache_seconds=7200&bg_color=0d1117&format=png" />
+
+<img src="https://stats.dooboo.io/api/top-langs?username=sidneiajr&theme=tokyonight&layout=compact" />
+
 ## 📊 Estatísticas:
 
 <div align="center">
@@ -5,9 +9,6 @@
 <img src="https://streak-stats.demolab.com?user=sidneiajr&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" /><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false" /><br>
-
-<img src="https://stats.dooboo.io/api/top-langs?username=sidneiajr&theme=tokyonight&layout=compact" />
-
 
 </div>
 
