@@ -33,9 +33,15 @@
 
 ## 📊 Estatísticas:
 
-<img align="center" alt="GitHub Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneiAJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<div style="display: flex; gap: 20px; align-items: flex-start;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" />
+  <!-- Tecnologias -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneiAJr&layout=compact&langs_count=10&theme=tokyonight" height="200"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight&hide_border=false" height="200"/>
+
+</div>
 
 ---
 
