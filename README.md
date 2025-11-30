@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&cache_seconds=7200&bg_color=0d1117&format=png" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneiAJr&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&cache_seconds=7200&bg_color=0d1117&format=png" />
 
 <img src="https://stats.dooboo.io/api/top-langs?username=sidneiajr&theme=tokyonight&layout=compact" />
 
