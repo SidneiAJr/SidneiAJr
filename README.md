@@ -35,7 +35,7 @@
 
 <img align="center" alt="GitHub Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneiAJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" />
 
 ---
 
