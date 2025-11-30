@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sidneiajr.sidneiajr&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sidneiajr.sidneiajr&" height=50px width=50px />
 </div>
 
 ## 📊 Estatísticas:
