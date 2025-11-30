@@ -6,6 +6,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false" /><br>
 
+<img src="https://stats.dooboo.io/api/top-langs?username=sidneiajr&theme=tokyonight&layout=compact" />
+
+
 </div>
 
 
