@@ -1,3 +1,11 @@
+## 📊 Estatísticas:
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sidneiajr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sidneiajr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
 # ✌️ Olá, bem-vindo! 😎
 
 ## `Iniciei minha jornada na área de Tecnologia em 2014, quando comecei o curso técnico em Informática.`
@@ -31,12 +39,6 @@
 | Introdução à Economia   | 2024 |
 | Introdução ao Bitcoin   | 2024 |
 
-## 📊 Estatísticas:
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sidneiajr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=sidneiajr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ---
 
