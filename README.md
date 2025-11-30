@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sidneiajr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=sidneiajr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph"  />
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&langs_count=10&theme=tokyonight&hide_border=false" height="200" alt="top langs" />
 </div>
 
 
