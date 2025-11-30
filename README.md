@@ -1,15 +1,16 @@
 ## 📊 Estatísticas:
 
-## 📊 Estatísticas:
+<div style="text-align:center;">
 
-### 🔥 Streak
-![Streak](https://streak-stats.demolab.com?user=sidneiajr&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5)
+<img src="https://streak-stats.demolab.com?user=sidneiajr&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" /><br>
 
-### 🏆 Troféus
-![Trophy](https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false)
+<img src="https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false" /><br>
 
-### 📘 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight&langs_count=10)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight&langs_count=10" />
+
+</div>
+
+
 
 
 
