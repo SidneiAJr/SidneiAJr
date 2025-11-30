@@ -35,6 +35,8 @@
 
 <img align="left" alt="GitHub Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneiAJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
+---
+
 ## 🤖 Linguagens e Tecnologias
 
 | 📘 Linguagem | 💼 Nível | 🚀 Uso nos Projetos       | 🏅 Curso                | 🏠 Instituição      |
