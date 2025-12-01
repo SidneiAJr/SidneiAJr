@@ -6,7 +6,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false" /><br>
 
-<img height="168em" src="https://camo.githubusercontent.com/355703bfa3495c663813a480d94eef2ae8393cda3aef1749638b194917aa93f6/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d646844536f757a61266c61796f75743d636f6d70616374266c616e67735f636f756e743d3130267468656d653d726561637426686964653d637373" data-canonical-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sidneajr&amp;layout=compact&amp;langs_count=10&amp;theme=react&amp;hide=css" style="max-width: 100%;">
+<img height="168em" src="https://camo.githubusercontent.com/355703bfa3495c663813a480d94eef2ae8393cda3aef1749638b194917aa93f6/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d646844536f757a61266c61796f75743d636f6d70616374266c616e67735f636f756e743d3130267468656d653d726561637426686964653d637373" data-canonical-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sidneajr&amp;layout=compact&amp;langs_count=50&amp;theme=react&amp;hide=css" style="max-width: 100%;">
 
 
 </div>
