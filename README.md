@@ -6,11 +6,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false" /><br>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sidneajr&layout=compact&langs_count=10&theme=react)
-
-
-
-
 
 </div>
 
