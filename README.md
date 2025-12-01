@@ -6,7 +6,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false" /><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidneiajr)
 
 </div>
 
