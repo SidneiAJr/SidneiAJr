@@ -6,7 +6,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false" /><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneiajr)
 
 
 
