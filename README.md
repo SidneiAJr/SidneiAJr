@@ -4,8 +4,6 @@
 
 <img src="https://streak-stats.demolab.com?user=sidneiajr&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" /><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sidneiajr&theme=dracula&row=1&no-frame=false&no-bg=false" /><br>
-
 ![Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight)
 
 
