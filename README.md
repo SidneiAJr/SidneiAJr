@@ -1,18 +1,7 @@
 # 📊 Estatísticas:
 
-<table>
-  <tr>
-    <td>
-      <img height="180" src="https://streak-stats.demolab.com?user=sidneiajr&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" />
-    </td>
-    <td>
-      <img height="250" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
-
-
+<p align="Center"> <img height="250" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight" /></p>
+  
 # ✌️ Olá, bem-vindo! 😎
 
 ## `Iniciei minha jornada na área de Tecnologia em 2014, quando comecei o curso técnico em Informática.`
