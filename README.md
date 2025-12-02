@@ -1,12 +1,18 @@
 ## 📊 Estatísticas:
 
-<div style="display: flex; gap: 20px;">
+## 📊 Estatísticas:
 
-<img src="https://streak-stats.demolab.com?user=sidneiajr&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" /><br>
+<table>
+  <tr>
+    <td>
+      <img height="180" src="https://streak-stats.demolab.com?user=sidneiajr&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
-![Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight)
-
-</div>
 
 
 # ✌️ Olá, bem-vindo! 😎
