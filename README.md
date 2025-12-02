@@ -1,15 +1,10 @@
 ## 📊 Estatísticas:
 
-<div align="center">
+<div align="left">
 
 <img src="https://streak-stats.demolab.com?user=sidneiajr&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" /><br>
 
 ![Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight)
-
-
-
-
-
 
 </div>
 
