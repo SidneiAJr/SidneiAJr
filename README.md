@@ -9,6 +9,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidneiajr&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidneiajr&theme=tokyonight" />
 
+![Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight)
+
 
 
 
