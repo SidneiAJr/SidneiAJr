@@ -1,10 +1,13 @@
 <div align="center">
+  
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
 ![Dev](https://img.shields.io/badge/Dev-Júnior-blue)
 ![Estudando](https://img.shields.io/badge/Estudando-C%23%20POO-purple)
 ![Estudando](https://img.shields.io/badge/Estudando-php-purple)
 ![Estudando](https://img.shields.io/badge/Estudando-TS-purple)
+
 </div>
+
 
 
 
