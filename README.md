@@ -13,7 +13,8 @@
 ## 📦 Tecnologias presentes neste GitHub:
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" /></p>
 
-
+<p align="Center">
+  
 ## 🎓 Minhas Formações:
 
 | Curso                                       | Período   |
@@ -22,6 +23,10 @@
 | SGI (Segurança da Informação)               | 2021–2023 |
 | Técnico em Informática                      | 2014–2016 |
 | Técnico em Desenvolvimento de Sistemas      | 2025–2026 |
+
+</p>
+
+<p align="Center">
 
 ## 📘 Cursos Realizados:
 
@@ -34,6 +39,7 @@
 | Java & Java Web         | 2024 |
 | Introdução à Economia   | 2024 |
 | Introdução ao Bitcoin   | 2024 |
+</p>
 
 
 ---
