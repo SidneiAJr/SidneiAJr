@@ -1,6 +1,4 @@
-## 📊 Estatísticas:
-
-## 📊 Estatísticas:
+# 📊 Estatísticas:
 
 <table>
   <tr>
