@@ -4,6 +4,7 @@ Sou apaixonado por tecnologia e programação desde **2014**, quando iniciei min
 Desde então, sigo estudando, criando projetos e automatizando tudo que posso.
 
 Atualmente:
+- 🎓 Formado em Tecnico em Informatica**
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 - 🎓 Formado em **Segurança da Informação**
 - 📚 Cursando **Técnico em Desenvolvimento de Sistemas (Senac)**
