@@ -22,11 +22,7 @@ Atualmente:
 
 ## Badges | Cisco:
 
-![Badge Cisco | CyberSegurança](https://github.com/SidneiAJr/SidneiAJr/blob/main/assets/introduction-to-cybersecurity.png)
-
-
-
-
+<img src="https://github.com/SidneiAJr/SidneiAJr/blob/main/assets/introduction-to-cybersecurity.png" width="200" />
 
 ## 🧰 Tecnologias que utilizo
 
