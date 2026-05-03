@@ -52,12 +52,10 @@ Atualmente:
 ## 📘 Cursos e Estudos Complementares
 
 - PHP do Zero à Maestria
-- Java & Java Web
+- Java & Java Web | Alura & Oracle Next Education
 - HTML, CSS e JavaScript
-- CyberSegurança
+- CyberSegurança | Cisco
 - Introdução a C++
-- Introdução à Economia
-- Introdução ao Bitcoin
 
 ---
 
