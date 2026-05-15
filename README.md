@@ -12,7 +12,6 @@ Atualmente:
 
 ---
 
-## 📊 Estatísticas
 
 ## 📊 Estatísticas
 
