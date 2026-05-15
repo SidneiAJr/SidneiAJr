@@ -14,8 +14,10 @@ Atualmente:
 
 ## 📊 Estatísticas
 
+## 📊 Estatísticas
+
 <p align="center">
-  <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight" />
+  <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=12" />
 </p>
 
 ---
