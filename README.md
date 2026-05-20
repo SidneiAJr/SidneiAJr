@@ -1,4 +1,4 @@
-# ✌️ Olá! 😎
+# ✌️ Olá | Sou SidA | Albertaodasmassa 😎
 
 Sou apaixonado por tecnologia e programação desde **2014**, quando iniciei minha jornada com o curso técnico em Informática.  
 Desde então, sigo estudando, criando projetos e automatizando tudo que posso.
