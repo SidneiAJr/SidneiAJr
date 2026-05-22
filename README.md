@@ -1,17 +1,13 @@
-# ✌️ Olá | Sou SidA | Albertaodasmassa 😎
+# 👋 Olá, sou Sidnei (SidA | Albertaodasmassa)
 
-Sou apaixonado por tecnologia e programação desde **2014**, quando iniciei minha jornada com o curso técnico em Informática.  
-Desde então, sigo estudando, criando projetos e automatizando tudo que posso.
+**Dev Júnior em formação | Backend | Automação | Segurança**
 
-Atualmente:
-- 🎓 Formado em Tecnico em Informatica
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 🎓 Formado em **Segurança da Informação**
-- 📚 Cursando **Técnico em Desenvolvimento de Sistemas (Senac)**
-- 💼 **Buscando oportunidades como Dev Júnior**
+Desde 2014 na área de tecnologia. Formado em ADS e Segurança da Informação.  
+Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
+
+📍 Buscando oportunidade como **Desenvolvedor Júnior** (backend ou fullstack)
 
 ---
-
 
 ## 📊 Estatísticas
 
@@ -21,64 +17,60 @@ Atualmente:
 
 ---
 
-## Badges | Cisco:
+## 🚀 Projetos em destaque
 
-<img src="https://github.com/SidneiAJr/SidneiAJr/blob/main/assets/introduction-to-cybersecurity.png" width="80px" />
+| Projeto | Stack | Destaque |
+|---------|-------|----------|
+| **HydroRS** | Java Spring + TS Express | Backend com 2FA, JWT, autenticação em duas stacks |
+| **Constellation CLI** | Bash | Gerador de projetos (MVC, Java Spring, React) |
+| **Econometor** | HTML/CSS/JS | Simulador financeiro pessoal |
+| **Códigos Malucos** | Multi-stack | Laboratório de refatoração de código legado |
 
-## 🧰 Tecnologias que utilizo
+🔗 *Projetos públicos no GitHub (link abaixo)*
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45"/>
-</p>
+---
+
+## 🛠️ Stack principal
+
+| Tecnologia | Uso |
+|------------|-----|
+| **Java / Spring Boot** | Backend, APIs REST, segurança |
+| **TypeScript / Express** | Backend, APIs, 2FA |
+| **JavaScript / HTML / CSS** | Frontend e lógica |
+| **MySQL / JPA / JDBC** | Banco de dados |
+| **Git / GitHub / CLI** | Versionamento e automação |
 
 ---
 
 ## 🎓 Formação
 
-| Curso                                   | Período   |
-|----------------------------------------|-----------|
-| Análise e Desenvolvimento de Sistemas  | 2018–2020 |
-| Segurança da Informação                | 2021–2023 |
-| Técnico em Informática                 | 2014–2016 |
-| Técnico em Desenvolvimento de Sistemas | 2025–2026 |
+| Curso | Instituição | Período |
+|-------|-------------|---------|
+| Tecnólogo em Segurança da Informação | — | 2021–2023 |
+| Tecnólogo em Análise e Desenvolvimento de Sistemas | — | 2018–2020 |
+| Técnico em Desenvolvimento de Sistemas | Senac | 2025–2026 |
+| Técnico em Informática | — | 2014–2016 |
 
 ---
 
-## 📘 Cursos e Estudos Complementares
+## 📜 Certificações
 
-- PHP do Zero à Maestria
-- Java & Java Web | Alura & Oracle Next Education
-- HTML, CSS e JavaScript
-- CyberSegurança | Cisco
-- Introdução a C++
+- 🛡️ Introduction to Cybersecurity – Cisco
 
 ---
 
-## 🤖 Linguagens (nível atual)
+## 📫 Onde me encontrar
 
-| Linguagem     | Uso principal                  |
-|--------------|--------------------------------|
-| HTML / CSS   | Front-end / Estrutura / Estilo |
-| JavaScript   | Lógica / Web                   |
-| PHP          | Back-end / Estudos / POO       |
-| Java         | Back-end / Estudos             |
-| C#           | Desktop / Unity / Estudos      |
-| TypeScript   | Back-end / Estudos             |
-
-> 📌 *Sempre em aprendizado contínuo e prática constante.*
+- GitHub: [github.com/SidneiAJr](https://github.com/SidneiAJr)
+- LinkedIn: [linkedin.com/in/sidneiajr](https://linkedin.com/in/sidneiajr) (coloca teu link real)
 
 ---
 
-## 🧠 Filosofia
+## 🧠 Minha abordagem
 
-- Código simples
-- Aprender fazendo
-- Automação sempre que possível
-- Sem promessas milagrosas
-- Evolução real, um projeto por vez
+- Código simples, legível, funcional
+- Aprendizado ativo (projetos > teoria)
+- Automação de tarefas repetitivas
+- Documentação pessoal como ferramenta de evolução
+
+> *"Se não dá pra explicar de forma simples, é porque não entendeu bem o suficiente."*
