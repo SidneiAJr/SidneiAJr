@@ -1,6 +1,6 @@
 # 👋 Olá, sou Sidnei (SidA | Albertaodasmassa)
 
-**Dev Júnior em formação | Backend | Automação | Segurança**
+### **Dev Júnior em formação | Backend | Automação | Segurança**
 
 Desde 2014 na área de tecnologia. Formado em ADS e Segurança da Informação.  
 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
