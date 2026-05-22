@@ -61,7 +61,7 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 ## 📫 Onde me encontrar
 
 - GitHub: [github.com/SidneiAJr](https://github.com/SidneiAJr)
-- LinkedIn: [linkedin.com/in/sidneiajr](https://linkedin.com/in/sidneiajr) (coloca teu link real)
+- LinkedIn: [linkedin.com/in/sidneiajr](https://linkedin.com/in/sidneiajr) 
 
 ---
 
