@@ -26,7 +26,6 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 | **Econometor** | HTML/CSS/JS | Simulador financeiro pessoal |
 | **Códigos Malucos** | Multi-stack | Laboratório de refatoração de código legado |
 
-🔗 *Projetos públicos no GitHub (link abaixo)*
 
 ---
 
@@ -46,10 +45,10 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 
 | Curso | Instituição | Período |
 |-------|-------------|---------|
-| Tecnólogo em Segurança da Informação | — | 2021–2023 |
-| Tecnólogo em Análise e Desenvolvimento de Sistemas | — | 2018–2020 |
+| Tecnólogo em Segurança da Informação | Uniasselvi | 2021–2023 |
+| Tecnólogo em Análise e Desenvolvimento de Sistemas | FaQI | 2018–2020 |
 | Técnico em Desenvolvimento de Sistemas | Senac | 2025–2026 |
-| Técnico em Informática | — | 2014–2016 |
+| Técnico em Informática | São Luis | 2014–2016 |
 
 ---
 
