@@ -15,6 +15,7 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
   <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidneiajr&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=12" />
 </p>
 
+*Distribuição prática do meu código nos repositórios públicos.*
 ---
 
 ## 🚀 Projetos em destaque
