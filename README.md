@@ -16,6 +16,7 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 </p>
 
 > *Distribuição prática do meu código nos repositórios públicos.*
+
 ---
 
 ## 🚀 Projetos em destaque
@@ -24,9 +25,10 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 |---------|-------|----------|
 | **HydroRS** | Java Spring + TS Express | Backend com 2FA, JWT, autenticação em duas stacks |
 | **Constellation CLI** | Bash | Gerador de projetos (MVC, Java Spring, React) |
+| **CRUD Generator** | VS Code Extension | Gera CRUD completo em 6 frameworks (Node, Spring, Slim, Laravel, C#, TS) |
+| **Constellation Project Creator** | VS Code Extension | Cria estrutura MVC completa com pastas backend + frontend |
 | **Econometor** | HTML/CSS/JS | Simulador financeiro pessoal |
 | **Códigos Malucos** | Multi-stack | Laboratório de refatoração de código legado |
-
 
 ---
 
@@ -39,6 +41,7 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 | **JavaScript / HTML / CSS** | Frontend e lógica |
 | **MySQL / JPA / JDBC** | Banco de dados |
 | **Git / GitHub / CLI** | Versionamento e automação |
+| **VS Code Extension API** | Ferramentas para produtividade |
 
 ---
 
@@ -62,7 +65,7 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 ## 📫 Onde me encontrar
 
 - GitHub: [github.com/SidneiAJr](https://github.com/SidneiAJr)
-- LinkedIn: [linkedin.com/in/sidneiajr](https://linkedin.com/in/sidneiajr) 
+- LinkedIn: [linkedin.com/in/sidneiajr](https://linkedin.com/in/sidneiajr)
 
 ---
 
