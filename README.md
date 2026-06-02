@@ -27,7 +27,6 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 | **Constellation CLI** | Bash | Gerador de projetos (MVC, Java Spring, React) |
 | **CRUD Generator** | VS Code Extension | Gera CRUD completo em 6 frameworks (Node, Spring, Slim, Laravel, C#, TS) |
 | **Constellation Project Creator** | VS Code Extension | Cria estrutura MVC completa com pastas backend + frontend |
-| **Econometor** | HTML/CSS/JS | Simulador financeiro pessoal |
 | **Códigos Malucos** | Multi-stack | Laboratório de refatoração de código legado |
 
 ---
