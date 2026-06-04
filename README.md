@@ -32,7 +32,7 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 
 | Projeto | Vscode | Destaque | Privado|
 |---------|-------|----------|--------|
-| **CRUD Generator** | VS Code Extension | Gera CRUD completo em 6 frameworks (Node, Spring, Slim, Laravel, C#, TS) | Não
+| **CRUD Generator** | VS Code Extension | Gera CRUD de rotas completo | Não
 | **Constellation Project Creator** | VS Code Extension | Cria estrutura MVC completa com pastas backend + frontend | Não
 | **Docker Minitor** | VS Code Extension | Monitor de Docker Integrado ao VScode | Sim
 | **SQL Monitor** | VS Code Extension | Monitor de SQL Integrado ao VScode | Sim
