@@ -33,7 +33,7 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 | Projeto | Vscode | Destaque | Privado| Link |
 |---------|-------|----------|--------|-------|
 | **Basic Crud Generator** | VS Code Extension | Gera CRUD de rotas completo | Não | 
-| **Constellation Project Creator** | VS Code Extension | Cria estrutura MVC completa com pastas backend + frontend | Não 
+| **Constellation Project Creator** | VS Code Extension | Cria estrutura MVC completa com pastas backend | Não 
 | **Docker Minitor** | VS Code Extension | Monitor de Docker Integrado ao VScode | Sim
 | **SQL Monitor** | VS Code Extension | Monitor de SQL Integrado ao VScode | Sim
 | **Model to Json** | VS Code Extension | Converte a Model em JSON | Sim
