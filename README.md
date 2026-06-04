@@ -29,7 +29,6 @@
 | 🔒 **HydroRS** | Java Spring + TS Express | Backend com 2FA, JWT, autenticação em DUAS stacks |
 | 🛠️ **Constellation CLI** | Bash + Node.js | Gerador de projetos CLI com 3.000+ linhas |
 | 🧪 **Códigos Malucos** | Multi-stack | Laboratório de refatoração de código legado |
-| 📚 **Albertool-DevKit** | Java + PHP + TS + JS + C# | 200+ blocos de tutorial, 8 volumes Java, 100 blocos PHP |
 
 ---
 
