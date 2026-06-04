@@ -20,10 +20,6 @@
   <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SidneiAJr&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidneiAJr&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🚀 Projetos em destaque
@@ -41,13 +37,13 @@
 
 | Extensão | Descrição | Link |
 |----------|-----------|------|
-| **Basic Crud Generator** | Gera CRUD completo de rotas | [Marketplace]() |
-| **Constellation Project Creator** | Estrutura MVC completa com pastas | [Marketplace]() |
-| **SQL to Model** | Converte CREATE TABLE em Model/Entity | [Marketplace]() |
+| **Basic Crud Generator** | Gera CRUD completo de rotas | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.basic-crud-generator) |
+| **Constellation Project Creator** | Estrutura MVC completa com pastas | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.constellation-project-creatornew) |
+| **SQL to Model** | Converte CREATE TABLE em Model/Entity | Privado |
 | **Model to JSON** | Converte Model Java para JSON schema | Privado |
 | **SQL Monitor** | Monitor de queries SQL integrado | Privado |
 | **Docker Monitor** | Monitor de containers Docker | Privado |
-| **Albertool Git commit** | Padroniza mensagens de commit | [Marketplace]() |
+| **Albertool Git commit** | Padroniza mensagens de commit | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.albertool-commit) |
 
 > *7 extensões — produtividade para devs, construídas por um dev.*
 
