@@ -31,9 +31,11 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 ## Extensões VSCode
 
 | Projeto | Stack | Destaque | Privado|
+|---------|-------|----------|--------|
 | **CRUD Generator** | VS Code Extension | Gera CRUD completo em 6 frameworks (Node, Spring, Slim, Laravel, C#, TS) | Não
 | **Constellation Project Creator** | VS Code Extension | Cria estrutura MVC completa com pastas backend + frontend | Não
 | **Docker Minitor** | VS Code Extension | Monitor de Docker Integrado ao VScode | Sim
+
 
 ---
 
