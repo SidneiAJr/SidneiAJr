@@ -9,7 +9,7 @@
 > Desde 2014 na tecnologia. Formado em ADS e Segurança da Informação.  
 > Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 
-**Buscando oportunidade como Desenvolvedor Backend** — com portfólio real em produção.
+**Buscando oportunidade como Desenvolvedor Backend**
 
 ---
 
