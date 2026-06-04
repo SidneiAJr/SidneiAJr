@@ -32,7 +32,7 @@
 
 ---
 
-## 🔌 Extensões VS Code (7 publicadas)
+## 🔌 Extensões VS Code 
 
 | Extensão | Descrição | Link |
 |----------|-----------|------|
