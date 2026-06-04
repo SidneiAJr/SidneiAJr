@@ -30,14 +30,16 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 
 ## Extensões VSCode
 
-| Projeto | Vscode | Destaque | Privado|
-|---------|-------|----------|--------|
-| **CRUD Generator** | VS Code Extension | Gera CRUD de rotas completo | Não
-| **Constellation Project Creator** | VS Code Extension | Cria estrutura MVC completa com pastas backend + frontend | Não
+| Projeto | Vscode | Destaque | Privado| Link |
+|---------|-------|----------|--------|-------|
+| **Basic Crud Generator** | VS Code Extension | Gera CRUD de rotas completo | Não | https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.constellation-project-creatornew
+| **Constellation Project Creator** | VS Code Extension | Cria estrutura MVC completa com pastas backend + frontend | Não 
 | **Docker Minitor** | VS Code Extension | Monitor de Docker Integrado ao VScode | Sim
 | **SQL Monitor** | VS Code Extension | Monitor de SQL Integrado ao VScode | Sim
 | **Model to Json** | VS Code Extension | Converte a Model em JSON | Sim
 | **SQl to Model** | VS Code Extension | Converte o SQL em Model  | Sim
+| **Albertool Git commit** | VS Code Extension | Converte o SQL em Model  | Não
+
 
 
 ---
