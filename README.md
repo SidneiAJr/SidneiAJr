@@ -110,8 +110,6 @@
 ## 📈 O que estou construindo agora
 
 - 🚀 Publicação da CLI Constellation no NPM
-- 📝 Organização dos 200+ blocos de tutorial no GitHub
-- 🔧 Extensão **SQL to Model** (converte CREATE TABLE em Model Java/JPA)
 - 🎯 Aplicando para vagas de Desenvolvedor Backend
 
 ---
