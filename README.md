@@ -25,9 +25,15 @@ Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
 |---------|-------|----------|
 | **HydroRS** | Java Spring + TS Express | Backend com 2FA, JWT, autenticação em duas stacks |
 | **Constellation CLI** | Bash | Gerador de projetos (MVC, Java Spring, React) |
-| **CRUD Generator** | VS Code Extension | Gera CRUD completo em 6 frameworks (Node, Spring, Slim, Laravel, C#, TS) |
-| **Constellation Project Creator** | VS Code Extension | Cria estrutura MVC completa com pastas backend + frontend |
 | **Códigos Malucos** | Multi-stack | Laboratório de refatoração de código legado |
+
+
+## Extensões VSCode
+
+| Projeto | Stack | Destaque | Privado|
+| **CRUD Generator** | VS Code Extension | Gera CRUD completo em 6 frameworks (Node, Spring, Slim, Laravel, C#, TS) | Não
+| **Constellation Project Creator** | VS Code Extension | Cria estrutura MVC completa com pastas backend + frontend | Não
+| **Docker Minitor** | VS Code Extension | Monitor de Docker Integrado ao VScode | Sim
 
 ---
 
