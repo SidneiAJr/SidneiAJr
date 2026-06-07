@@ -42,7 +42,7 @@
 | **Model to JSON** | Converte Model Java para JSON schema | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.convert-model-to-json) |
 | **SQL Monitor** | Monitor de queries SQL integrado | Uso Pessoal |
 | **Docker Monitor** | Monitor de containers Docker & Consumo de Memoria Ram e Processador | Uso Pessoal |
-| **Albertool Por Killer** | Verifica e Mata Processo na porta Integrado ao VScode | Uso Pessoal |
+| **Albertool Port Killer** | Verifica e Mata Processo na porta Integrado ao VScode | Uso Pessoal |
 | **Albertool Git commit** | Padroniza mensagens de commit | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.albertool-commit) |
 
 > *7 extensões — produtividade para devs, construídas por um dev.*
