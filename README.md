@@ -24,11 +24,11 @@
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Stack | Destaque |
-|---------|-------|----------|
-| 🔒 **HydroRS** | Java Spring + TS Express | Backend com 2FA, JWT, autenticação em DUAS stacks |
+| Projeto | Stack | Destaque | Função|
+|---------|-------|----------|----------|
+| 🔒 **HydroRS** | Java Spring + TS Express | Backend com 2FA, JWT, autenticação em DUAS stacks | Projeto Feito para Medir Nivel dos rios Defesa Civil |
 | 🛠️ **Constellation CLI** | Bash ou Node.js | Gerador de projetos Bash ou Nodejs | Cria estrutura Backend MVC ou outras e instala dependencia |
-| 🧪 **Códigos Malucos** | Multi-stack | Laboratório de refatoração de código legado |
+| 🧪 **Códigos Malucos** | Multi-stack | Laboratório de refatoração de código legado | Repositorio para Refatorar Codigo Lgeado com IA |
 
 ---
 
