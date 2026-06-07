@@ -37,7 +37,7 @@ Sou movido por três pilares:
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
-  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SidneiAJr&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SidneiAJr&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" height="45px" />
 </p>
 
 ---
