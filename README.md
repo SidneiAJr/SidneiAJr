@@ -1,19 +1,39 @@
 # 👋 Olá, sou Sidnei (SidA | Albertaodasmassa)
 
-### **Dev Backend Júnior em formação | Automação | Segurança**
+### 🧠 Backend Developer em formação | Automação | Ferramentas de Produtividade | Segurança
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidneiajr)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidneiAJr)
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa)
-
-> Desde 2014 na tecnologia. Formado em ADS e Segurança da Informação.  
-> Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac.
-
-**Buscando oportunidade como Desenvolvedor Backend**
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa)
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Sobre mim
+
+Atuo com tecnologia desde 2014, evoluindo de suporte e infraestrutura até desenvolvimento backend e automação de processos.
+
+Hoje meu foco é construir **sistemas, ferramentas e extensões que aumentam produtividade, reduzem trabalho repetitivo e melhoram a forma como desenvolvedores trabalham com backend e infraestrutura**.
+
+Sou movido por três pilares:
+
+- ⚙️ Automação de tarefas repetitivas  
+- 🔐 Segurança aplicada ao backend  
+- 🧩 Criação de ferramentas para desenvolvedores  
+
+---
+
+## 🧠 Filosofia de trabalho
+
+- Código simples, legível e sustentável
+- Construo ferramentas antes de repetir trabalho manual
+- Aprendizado baseado em projetos reais
+- Segurança como parte do design, não como adição
+
+> *"Se não dá pra explicar de forma simples, ainda não está pronto."*
+
+---
+
+## 📊 GitHub em destaque
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
@@ -22,89 +42,89 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## 🧩 Projetos em destaque
 
-| Projeto | Stack | Destaque | Função |
-|---------|-------|----------|--------|
-| 🔒 **HydroRS** | Java Spring + TypeScript (Express) | Autenticação JWT + 2FA | Sistema backend para monitoramento de níveis de rios (Defesa Civil) |
-| 🛠️ **Constellation CLI** | Bash / Node.js | Gerador de projetos automatizado | Criação de estrutura backend (MVC) com instalação de dependências |
-| 🧪 **Códigos Malucos** | Multi-stack | Refatoração de código legado | Laboratório para melhoria de código antigo com apoio de IA |
+### 🔒 HydroRS — Sistema de Monitoramento de Rios
+Backend desenvolvido com Java + Spring Boot e TypeScript (Express)
+
+- Autenticação segura com JWT e 2FA
+- Foco em confiabilidade de dados para monitoramento ambiental
+- Sistema voltado para apoio a cenários críticos (enchentes e Defesa Civil)
+
 ---
 
-## 🔌 Extensões VS Code 
+### 🛠️ Constellation CLI — Gerador de Estrutura Backend
+CLI para automação de criação de projetos backend
 
-| Extensão | Descrição | Link |
-|----------|-----------|------|
-| **Basic Crud Generator** | Gera CRUD completo de rotas | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.basic-crud-generator) |
-| **Constellation Project Creator** | Estrutura MVC completa com pastas | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.constellation-project-creatornew) |
-| **SQL to Model** | Converte CREATE TABLE em Model Entity SQL Mysql & MariaDB Only | Será Postado em Breve|
-| **Model to JSON** | Converte Model Java para JSON schema | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.convert-model-to-json) |
-| **SQL Monitor** | Monitor de queries SQL integrado | Uso Pessoal |
-| **Docker Monitor** | Monitor de containers Docker & Consumo de Memoria Ram e Processador | Uso Pessoal |
-| **Albertool Port Killer** | Verifica e Mata Processo na porta Integrado ao VScode | Uso Pessoal |
-| **Albertool Git commit** | Padroniza mensagens de commit | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.albertool-commit) |
+- Geração automática de estrutura MVC
+- Instalação de dependências e setup inicial
+- Redução de setup manual repetitivo em novos projetos
 
-> *Extensões — produtividade para devs, construídas por um dev.*
+---
+
+### 🧪 Códigos Malucos — Laboratório de Refatoração
+Ambiente experimental para evolução de código legado
+
+- Refatoração assistida por IA
+- Melhoria de performance e legibilidade
+- Testes de abordagens diferentes em múltiplas stacks
+
+---
+
+## 🔌 Extensões VS Code
+
+Ferramentas criadas para aumentar produtividade no desenvolvimento backend:
+
+- **Basic Crud Generator** → geração rápida de CRUD completo
+- **Constellation Project Creator** → estrutura MVC automatizada
+- **SQL to Model** → conversão de SQL para entidades (MySQL/MariaDB)
+- **Model to JSON** → geração de schema JSON a partir de models Java
+- **SQL Monitor** → monitoramento de queries em tempo real
+- **Docker Monitor** → análise de containers e consumo de recursos
+- **Albertool Port Killer** → gerenciamento de portas em uso no sistema
+- **Albertool Git Commit** → padronização de commits
 
 ---
 
 ## 🛠️ Stack principal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-| Tecnologia | Uso |
-|------------|-----|
-| **Java / Spring Boot** | Backend, APIs REST, segurança, JWT |
-| **TypeScript / Express** | Backend, APIs, autenticação |
-| **JavaScript / HTML / CSS** | Frontend e lógica de UI |
-| **MySQL / JPA / JDBC** | Banco de dados e ORM |
-| **Git / GitHub / CLI** | Versionamento e automação |
-| **VS Code Extension API** | Ferramentas de produtividade |
+- Java + Spring Boot → APIs REST, segurança e backend robusto
+- TypeScript + Node.js (Express) → APIs leves e automação
+- MySQL + JPA + JDBC → persistência de dados
+- Git + GitHub → versionamento e colaboração
+- VS Code Extension API → criação de ferramentas para devs
 
 ---
 
 ## 🎓 Formação
 
 | Curso | Instituição | Período |
-|-------|-------------|---------|
-| 🛡️ Tecnólogo em Segurança da Informação | Uniasselvi | 2021–2023 |
-| 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas | FaQI | 2018–2020 |
-| 🧠 Técnico em Desenvolvimento de Sistemas | Senac | 2025–2026 |
-| 🔧 Técnico em Informática | São Luis | 2014–2016 |
-
----
-
-## 📜 Certificações
-
-- 🛡️ **Introduction to Cybersecurity** – Cisco
+|------|-------------|--------|
+| Tecnólogo em Segurança da Informação | Uniasselvi | 2021–2023 |
+| Tecnólogo em ADS | FaQI | 2018–2020 |
+| Técnico em Desenvolvimento de Sistemas | Senac | 2025–2026 |
+| Técnico em Informática | São Luis | 2014–2016 |
 
 ---
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidneiajr)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidneiAJr)
-[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/publishers/SidneiAJr)
+- [LinkedIn](https://linkedin.com/in/sidneiajr)
+- [GitHub](https://github.com/SidneiAJr)
+- [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa)
 
 ---
 
-## 🧠 Minha abordagem
+## 🧠 Direção atual
 
-- ✅ Código simples, legível, funcional
-- ✅ Aprendizado ativo (projetos > teoria)
-- ✅ Automação de tarefas repetitivas (preguiça eficiente)
-- ✅ Documentação pessoal como ferramenta de evolução
+Estou focado em evoluir como desenvolvedor backend com ênfase em:
 
-> *"Se não dá pra explicar de forma simples, é porque não entendeu bem o suficiente."*
+- Automação de processos internos
+- Criação de ferramentas para devs
+- APIs seguras e escaláveis
+- Arquitetura limpa e reutilizável
 
 ---
 
-⭐ *Se algo aqui te ajudou ou inspirou, dá uma estrela nos repositórios. Isso ajuda mais gente a encontrar.*
+⭐ Se algum projeto te ajudou ou chamou atenção, considere deixar uma estrela nos repositórios.
+Isso ajuda a dar visibilidade e atrair novas oportunidades.
