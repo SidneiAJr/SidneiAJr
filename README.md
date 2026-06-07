@@ -39,7 +39,7 @@
 | **Basic Crud Generator** | Gera CRUD completo de rotas | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.basic-crud-generator) |
 | **Constellation Project Creator** | Estrutura MVC completa com pastas | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.constellation-project-creatornew) |
 | **SQL to Model** | Converte CREATE TABLE em Model/Entity SQL Only | Será Postado em Breve|
-| **Model to JSON** | Converte Model Java para JSON schema | Será Postado em Breve |
+| **Model to JSON** | Converte Model Java para JSON schema | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.convert-model-to-json) |
 | **SQL Monitor** | Monitor de queries SQL integrado | Uso Pessoal |
 | **Docker Monitor** | Monitor de containers Docker & Consumo de Memoria Ram e Processador | Uso Pessoal |
 | **Albertool Por Killer** | Verifica e Mata Processo na porta Integrado ao VScode | Uso Pessoal |
