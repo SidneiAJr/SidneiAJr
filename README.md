@@ -115,16 +115,6 @@ Ferramentas criadas para aumentar produtividade no desenvolvimento backend:
 
 ---
 
-## 🧠 Direção atual
-
-Estou focado em evoluir como desenvolvedor backend com ênfase em:
-
-- Automação de processos internos
-- Criação de ferramentas para devs
-- APIs seguras e escaláveis
-- Arquitetura limpa e reutilizável
-
----
 
 ⭐ Se algum projeto te ajudou ou chamou atenção, considere deixar uma estrela nos repositórios.
 Isso ajuda a dar visibilidade e atrair novas oportunidades.
