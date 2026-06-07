@@ -45,7 +45,7 @@
 | **Albertool Port Killer** | Verifica e Mata Processo na porta Integrado ao VScode | Uso Pessoal |
 | **Albertool Git commit** | Padroniza mensagens de commit | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.albertool-commit) |
 
-> *7 extensões — produtividade para devs, construídas por um dev.*
+> *Extensões — produtividade para devs, construídas por um dev.*
 
 ---
 
