@@ -38,7 +38,7 @@
 |----------|-----------|------|
 | **Basic Crud Generator** | Gera CRUD completo de rotas | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.basic-crud-generator) |
 | **Constellation Project Creator** | Estrutura MVC completa com pastas | [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.constellation-project-creatornew) |
-| **SQL to Model** | Converte CREATE TABLE em Model/Entity | Privado |
+| **SQL to Model** | Converte CREATE TABLE em Model/Entity SQL Only | Será Postado em Breve|
 | **Model to JSON** | Converte Model Java para JSON schema | Privado |
 | **SQL Monitor** | Monitor de queries SQL integrado | Privado |
 | **Docker Monitor** | Monitor de containers Docker | Privado |
@@ -104,13 +104,6 @@
 - ✅ Documentação pessoal como ferramenta de evolução
 
 > *"Se não dá pra explicar de forma simples, é porque não entendeu bem o suficiente."*
-
----
-
-## 📈 O que estou construindo agora
-
-- 🚀 Publicação da CLI Constellation no NPM
-- 🎯 Aplicando para vagas de Desenvolvedor Backend
 
 ---
 
