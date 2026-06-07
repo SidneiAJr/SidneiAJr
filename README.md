@@ -75,7 +75,7 @@ Ambiente experimental para evolução de código legado
 
 Ferramentas criadas para aumentar produtividade no desenvolvimento backend:
 
-- **Basic Crud Generator** → geração rápida de CRUD completo
+- **Basic Crud Generator** → geração rápida de CRUD de rotas completo
 - **Constellation Project Creator** → estrutura MVC automatizada
 - **SQL to Model** → conversão de SQL para entidades (MySQL/MariaDB)
 - **Model to JSON** → geração de schema JSON a partir de models Java
