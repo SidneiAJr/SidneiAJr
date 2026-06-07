@@ -27,7 +27,7 @@
 | Projeto | Stack | Destaque |
 |---------|-------|----------|
 | 🔒 **HydroRS** | Java Spring + TS Express | Backend com 2FA, JWT, autenticação em DUAS stacks |
-| 🛠️ **Constellation CLI** | Bash + Node.js | Gerador de projetos CLI com 3.000+ linhas |
+| 🛠️ **Constellation CLI** | Bash ou Node.js | Gerador de projetos Bash ou Nodejs | Cria estrutura Backend MVC ou outras e instala dependencia |
 | 🧪 **Códigos Malucos** | Multi-stack | Laboratório de refatoração de código legado |
 
 ---
