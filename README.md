@@ -71,6 +71,11 @@ Ambiente experimental para evolução de código legado
 
 ---
 
+## 🔌 Pagina de Extensões:
+Link: https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa
+
+---
+
 ## 🔌 Extensões VS Code
 
 Ferramentas criadas para aumentar produtividade no desenvolvimento backend:
