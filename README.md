@@ -53,6 +53,13 @@ Backend desenvolvido com Java + Spring Boot e TypeScript (Express)
 
 ---
 
+### 🔒 HydroJAVA — Sistema de Monitoramento de Rios Simples
+Backend desenvolvido com Java Swing
+
+- Foco em confiabilidade de dados para monitoramento ambiental
+
+---
+
 ### 🛠️ Constellation CLI — Gerador de Estrutura Backend
 CLI para automação de criação de projetos backend
 
