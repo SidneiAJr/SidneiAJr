@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Trabalho com tecnologia desde 2014 — comecei em suporte e infraestrutura, evoluí para desenvolvimento backend e automação de processos.
+Trabalho com tecnologia desde 2017 — comecei em suporte e infraestrutura, evoluí para desenvolvimento backend e automação de processos.
 
 Hoje construo **sistemas, ferramentas e extensões VS Code** focados em produtividade, segurança e qualidade de código.
 
