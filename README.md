@@ -43,9 +43,6 @@ Sistema backend para monitoramento de níveis de rios em apoio à Defesa Civil d
 - Audit log, rate limiting, Helmet
 - Winston logging com múltiplos transportes
 - Arquitetura em camadas (Controller → Service → Repository)
-
-🔗 [Repositório](https://github.com/SidneiAJr/HydroRS)
-
 ---
 
 ### 🌌 Constellation CLI — Gerador de Projetos Backend
@@ -60,30 +57,9 @@ Gera estrutura completa de projetos backend em segundos.
 
 ---
 
-### 🐺 Albertool Cerberus — Server Monitor
-> VS Code Extension · TypeScript
+## 🐺 Albertool Ecossistema | Extensões VSCode
 
-Monitor de servidor e rotas diretamente na sidebar do VS Code.
-- Status online/offline em tempo real
-- Lista rotas com cores por método HTTP
-- Copia URL completa com um clique
-- Abre rota GET direto no browser
-
-🔗 [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.albertool-cerberus)
-
----
-
-### 🛡️ Albertool Sentinel — ENV Validator
-> VS Code Extension · TypeScript
-
-Valida variáveis de ambiente diretamente na sidebar.
-- Escaneia `env-config.ts` e `process.env`
-- Mostra variáveis faltando no `.env`
-- Gera `.env` automaticamente
-
-🔗 [Marketplace](https://marketplace.visualstudio.com/items?itemName=SidAlbertaodasmassa.albertool-sentinel)
-
----
+9 extensões | Status: Ativo
 
 ## 🔌 Extensões VS Code
 
