@@ -1,96 +1,110 @@
-# 👋 Sidnei Junior — SidA | Albertaodasmassa
+<h1 align="center">Sidnei Junior — SidA</h1>
+<h3 align="center">Backend Developer · Ferramentas pra Devs · Automação · Segurança</h3>
 
-### Backend Developer | Automação | Ferramentas para Devs | Segurança
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidneiajr)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidneiAJr)
-[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa)
+<p align="center">
+  <a href="https://linkedin.com/in/sidneiajr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SidneiAJr">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa">
+    <img src="https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Trabalho com tecnologia desde 2017 — comecei em suporte e infraestrutura, evoluí para desenvolvimento backend e automação de processos.
 
 Hoje construo **sistemas, ferramentas e extensões VS Code** focados em produtividade, segurança e qualidade de código.
 
-```
-⚙️ Automação de tarefas repetitivas
-🔐 Segurança aplicada ao backend
-🧩 Ferramentas para desenvolvedores
-```
-
 > *"Preguiça? Chama de eficiência." — Albertool*
 
 ---
 
-## 📊 GitHub Stats
+## Stack
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
-  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SidneiAJr&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45" title="TypeScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="45" title="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" title="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="45" title="PHP"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="45" title="C#"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" title="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" title="React"/>
 </p>
 
 ---
 
-## 🧩 Projetos em Destaque
+## Projetos em Destaque
 
 ### 🌊 HydroRS — Monitoramento de Rios
-> TypeScript · Express · TypeORM · MySQL · JWT · 2FA
+`TypeScript` `Express` `TypeORM` `MySQL` `JWT` `2FA`
 
 Sistema backend para monitoramento de níveis de rios em apoio à Defesa Civil do RS.
-- Autenticação JWT + 2FA com Speakeasy
-- Audit log, rate limiting, Helmet
-- Winston logging com múltiplos transportes
-- Arquitetura em camadas (Controller → Service → Repository)
+
+- Autenticação com matrícula + JWT + 2FA via TOTP (Google Authenticator)
+- Audit log de todas as ações com IP e geolocalização
+- Rate limiting, Helmet, Winston logging estruturado
+- Arquitetura em camadas: Controller → Service → Repository
+
+🔗 [Repositório](https://github.com/SidneiAJr/HydroRS)
+
 ---
 
 ### 🌌 Constellation CLI — Gerador de Projetos Backend
-> Node.js · TypeScript · CLI
+`Node.js` `TypeScript` `CLI`
 
-Gera estrutura completa de projetos backend em segundos.
-- 5 linguagens (JS, TS, Java, PHP, C#)
-- 4 arquiteturas (MVC, DDD, Clean, Hexagonal)
-- 3 níveis de dependência (Básico, Avançado, Enterprise)
+Gera estrutura completa de projetos backend em segundos via linha de comando.
+
+- 5 linguagens: JS, TS, Java, PHP, C#
+- 4 arquiteturas: MVC, DDD, Clean, Hexagonal
+- 3 níveis de dependência: Básico, Avançado, Enterprise
 
 🔗 [Repositório](https://github.com/SidneiAJr/constellation-cli)
 
 ---
 
-## 🐺 Albertool Ecossistema | Extensões VSCode
+## 🐺 Albertool — Extensões VS Code
 
-9 extensões | Status: Ativo
+> 9 extensões publicadas no Marketplace · Status: Ativo
 
-## 🔌 Extensões VS Code
-
-| Extensão | Descrição |
+| Extensão | O que faz |
 |----------|-----------|
 | **Cerberus** | Monitor de servidor e rotas |
-| **Sentinel** | Validador de variáveis ENV |
+| **Sentinel** | Validador de variáveis de ambiente |
 | **Constellation Project Creator** | Gerador de estrutura de projetos |
-| **SQL to Model** | Converte SQL para entidade |
+| **SQL to Model** | Converte SQL em entidade |
 | **Model to JSON/XML** | Gera schema a partir de models |
-| **Basic CRUD Generator** | CRUD completo de rotas |
+| **Basic CRUD Generator** | Gera CRUD completo de rotas |
 | **Commit Generator** | Commits padronizados |
-| **Docker Monitor** | Monitor de containers |
+| **Docker Monitor** | Monitor de containers Docker |
 | **Port Killer** | Mata processo por porta |
 
 🔗 [Ver todas no Marketplace](https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa)
 
 ---
 
-## 🛠️ Stack Principal
+## GitHub Stats
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" title="React"/>
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight&hide=issues&count_private=true"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SidneiAJr&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8"/>
 </p>
 
 ---
 
-## 🎓 Formação
+## Formação
 
 | Curso | Instituição | Período |
 |-------|-------------|---------|
@@ -101,12 +115,6 @@ Gera estrutura completa de projetos backend em segundos.
 
 ---
 
-## 📫 Contato
-
-- 💼 [LinkedIn](https://linkedin.com/in/sidneiajr)
-- 🐙 [GitHub](https://github.com/SidneiAJr)
-- 🔌 [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa)
-
----
-
-⭐ Se algum projeto ou extensão te ajudou, considera deixar uma estrela — ajuda muito na visibilidade!
+<p align="center">
+  ⭐ Se algum projeto ou extensão te ajudou, considera deixar uma estrela — ajuda muito na visibilidade!
+</p>
