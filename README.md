@@ -57,8 +57,6 @@ Sistema backend para monitoramento de níveis de rios em apoio à Defesa Civil d
 - Rate limiting, Helmet, Winston logging estruturado
 - Arquitetura em camadas: Controller → Service → Repository
 
-🔗 [Repositório](https://github.com/SidneiAJr/HydroRS)
-
 ---
 
 ### 🌌 Constellation CLI — Gerador de Projetos Backend
