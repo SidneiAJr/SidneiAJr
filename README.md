@@ -1,5 +1,5 @@
 <h1 align="center">Sidnei Junior — SidA</h1>
-<h3 align="center">Backend Developer · Ferramentas pra Devs · Automação · Segurança</h3>
+<h3 align="center">Backend Developer · Java/Spring · TypeScript/Express · Ferramentas pra Devs</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sidneiajr">
@@ -17,9 +17,13 @@
 
 ## Sobre mim
 
-Trabalho com tecnologia desde 2017 — comecei em suporte e infraestrutura, evoluí para desenvolvimento backend e automação de processos.
+Desenvolvedor backend com foco em **Java/Spring Boot** e **TypeScript/Express** — construo sistemas, ferramentas e automações que resolvem problemas reais.
 
-Hoje construo **sistemas, ferramentas e extensões VS Code** focados em produtividade, segurança e qualidade de código.
+Formação em Análise e Desenvolvimento de Sistemas e Segurança da Informação. Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac RS.
+
+Tenho um projeto indicado à **LatinoWare** e um ecossistema de **11 extensões publicadas no VS Code Marketplace** sob a marca Albertool — todas open source, todas resolvendo dores reais do dia a dia de dev backend.
+
+Busco minha primeira oportunidade como **Dev Júnior** em backend. Disponível para remoto ou presencial no RS.
 
 > *"Preguiça? Chama de eficiência." — Albertool*
 
@@ -28,67 +32,83 @@ Hoje construo **sistemas, ferramentas e extensões VS Code** focados em produtiv
 ## Stack
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" title="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="45" title="Spring Boot"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="45" title="TypeScript"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="45" title="Node.js"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" title="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45" title="Docker"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="45" title="PHP"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="45" title="C#"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45" title="MySQL"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="45" title="React"/>
 </p>
 
 ---
 
-## Projetos em Destaque
+## Projeto em Destaque
 
-### 🌊 HydroRS — Monitoramento de Rios
-`TypeScript` `Express` `TypeORM` `MySQL` `JWT` `2FA`
+### 🌊 HydroRS — Monitoramento de Rios · 🏆 Indicado à LatinoWare
+`Java/Spring Boot` `TypeScript/Express` `TypeORM` `MySQL` `JWT` `2FA`
 
-Sistema backend para monitoramento de níveis de rios em apoio à Defesa Civil do RS.
+Backend completo para monitoramento de níveis de rios em apoio à Defesa Civil do RS — desenvolvido com duas stacks paralelas.
 
-- Autenticação com matrícula + JWT + 2FA via TOTP (Google Authenticator)
-- Audit log de todas as ações com IP e geolocalização
+- Autenticação com matrícula + JWT + **2FA via TOTP** (Google Authenticator)
+- Audit log completo com IP e geolocalização
 - Rate limiting, Helmet, Winston logging estruturado
+- Testes de segurança aplicados: **SQLi, XSS, força bruta, headers** — todos aprovados
 - Arquitetura em camadas: Controller → Service → Repository
 
 ---
 
-### 🌌 Constellation CLI — Gerador de Projetos Backend
-`Node.js` `TypeScript` `CLI`
+## 🐺 Albertool — Ecossistema de Extensões VS Code
 
-Gera estrutura completa de projetos backend em segundos via linha de comando.
+> **11 extensões publicadas** · Publisher: SidAlbertaodasmassa · Open Source
 
-- 5 linguagens: JS, TS, Java, PHP, C#
-- 4 arquiteturas: MVC, DDD, Clean, Hexagonal
-- 3 níveis de dependência: Básico, Avançado, Enterprise
+Ferramentas que resolvi construir porque sentia a dor de não ter — cada uma resolve um problema específico do dia a dia de dev backend.
 
-🔗 [Repositório](https://github.com/SidneiAJr/constellation-cli)
+| Extensão | O que resolve |
+|----------|--------------|
+| **Cerberus** | Monitor de servidor e rotas Express em tempo real na sidebar |
+| **Sentinel** | Detecta variáveis de ambiente faltando no `.env` automaticamente |
+| **DocGen** | Gera documentação Markdown completa do projeto com um comando |
+| **Constructor** | Gera constructors, getters, setters e interfaces pra 5 linguagens |
+| **Constellation Project Creator** | Cria estrutura completa de projeto (MVC/DDD/Clean/Hexagonal) |
+| **SQL to Model** | Converte CREATE TABLE SQL em entidade JPA, TS interface ou JS |
+| **Model to JSON/XML** | Gera schema de teste a partir de models e classes |
+| **Basic CRUD Generator** | Gera CRUD completo pra Express, Spark, Slim e ASP.NET |
+| **Docker Monitor** | Monitora containers, CPU e RAM direto na sidebar |
+| **Port Killer** | Mata processo por porta sem abrir terminal |
+| **Commit Generator** | Commits padronizados com Conventional Commits |
+
+🔗 [Ver todas no Marketplace](https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa)
 
 ---
 
-## 🐺 Albertool — Extensões VS Code
+## Outros Projetos
 
-> 9 extensões publicadas no Marketplace · Status: Ativo
+### 🌌 Constellation CLI — Gerador de Projetos Backend
+`Node.js` `Bash` `CLI` `Open Source`
 
-| Extensão | O que faz |
-|----------|-----------|
-| **Cerberus** | Monitor de servidor e rotas |
-| **Sentinel** | Validador de variáveis de ambiente |
-| **Constellation Project Creator** | Gerador de estrutura de projetos |
-| **SQL to Model** | Converte SQL em entidade |
-| **Model to JSON/XML** | Gera schema a partir de models |
-| **Basic CRUD Generator** | Gera CRUD completo de rotas |
-| **Commit Generator** | Commits padronizados |
-| **Docker Monitor** | Monitor de containers Docker |
-| **Port Killer** | Mata processo por porta |
+CLI que gera estrutura backend completa com menus interativos.
 
-🔗 [Ver todas no Marketplace](https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa)
+- 5 linguagens: JS, TS, Java Spring Boot, PHP, C#
+- 4 arquiteturas: MVC, DDD, Clean, Hexagonal
+- 3 níveis de dependência: Básico, Avançado, Enterprise
+
+🔗 [Repositório](https://github.com/SidneiAJr/constellation-cli) · 🌐 [Site](https://constelationclisite.vercel.app)
+
+---
+
+### 🧰 Albertool DevKit — Templates Multi-Stack
+`Multi-linguagem` `Open Source`
+
+28 templates prontos de backend — 7 arquiteturas × 4 linguagens — mais componentes React Native e hooks React Web.
 
 ---
 
@@ -106,13 +126,13 @@ Gera estrutura completa de projetos backend em segundos via linha de comando.
 
 | Curso | Instituição | Período |
 |-------|-------------|---------|
-| Técnico em Desenvolvimento de Sistemas | Senac | 2025–2026 |
+| Técnico em Desenvolvimento de Sistemas | Senac RS | 2025–2026 (cursando) |
 | Tecnólogo em Segurança da Informação | Uniasselvi | 2021–2023 |
-| Tecnólogo em ADS | FaQI | 2018–2020 |
-| Técnico em Informática | São Luis | 2014–2016 |
+| Tecnólogo em ADS | QI Faculdade | 2018–2020 |
+| Técnico em Informática | Colégio São Luís | 2013–2016 |
 
 ---
 
 <p align="center">
-  ⭐ Se algum projeto ou extensão te ajudou, considera deixar uma estrela — ajuda muito na visibilidade!
+  ⭐ Se alguma extensão ou projeto te ajudou, uma estrela no repo ajuda muito na visibilidade — valeu!
 </p>
