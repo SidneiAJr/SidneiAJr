@@ -1,4 +1,4 @@
-<h1 align="center">Sidnei Junior — SidA</h1>
+<h1 align="center">Sidnei Junior | SidA | Albertaodasmassa</h1>
 <h3 align="center">Backend Developer · Java/Spring · TypeScript/Express · Ferramentas pra Devs</h3>
 
 <p align="center">
