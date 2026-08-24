@@ -1,4 +1,4 @@
-<h1 align="center">Sidnei Junior | SidA | Albertaodasmassa</h1>
+<h1 align="center">Sidnei Junior · SidA · Albertaodasmassa</h1>
 <h3 align="center">Backend Developer · Java/Spring · TypeScript/Express · Ferramentas pra Devs</h3>
 
 <p align="center">
@@ -21,9 +21,10 @@ Desenvolvedor backend com foco em **Java/Spring Boot** e **TypeScript/Express** 
 
 Formação em Análise e Desenvolvimento de Sistemas e Segurança da Informação. Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac RS.
 
-Tenho um projeto indicado à **LatinoWare** e um ecossistema de **11 extensões publicadas no VS Code Marketplace** sob a marca Albertool — todas open source, todas resolvendo dores reais do dia a dia de dev backend.
-
-Busco minha primeira oportunidade como **Dev Júnior** em backend. Disponível para remoto ou presencial no RS.
+- 🏆 Projeto indicado à **LatinoWare**
+- 🐺 **12 extensões publicadas** no VS Code Marketplace — ecossistema Albertool
+- 📦 Pacotes npm em desenvolvimento — ainda não publicados
+- 🎯 Buscando primeira oportunidade como **Dev Júnior** em backend · Remoto ou presencial no RS
 
 > *"Preguiça? Chama de eficiência." — Albertool*
 
@@ -66,9 +67,35 @@ Backend completo para monitoramento de níveis de rios em apoio à Defesa Civil 
 
 ---
 
+## 📦 Pacotes npm — Em Desenvolvimento
+
+> Prontos e funcionais, ainda não publicados no npm.
+
+### 🏛️ Elisyum — WAF Middleware para Express
+`TypeScript` `Express` `Segurança`
+
+Middleware de segurança completo para Express em uma linha de configuração.
+
+- **Cérbero** — Whitelist / Blacklist / Ban temporário por IP
+- **Caronte** — Rate limiting por IP
+- **Némesis** — WAF: XSS, SQLi, Command Injection, Header Injection
+- **Hidra** — Detecção de Slowloris e Request Smuggling
+- **Atlas** — Enforçamento HTTP/HTTPS
+- **Inteligência** — Score heurístico: bane comportamento suspeito automaticamente
+- **Morfeu** — Callbacks e alertas em eventos de ban
+- Token Vault com rotação automática de chaves HMAC — zero configuração
+- JWT com fingerprint binding e timing-safe comparison
+
+```bash
+# futuro
+npm install elisyum
+```
+
+---
+
 ## 🐺 Albertool — Ecossistema de Extensões VS Code
 
-> **11 extensões publicadas** · Publisher: SidAlbertaodasmassa · Open Source
+> **12 extensões publicadas** · Publisher: SidAlbertaodasmassa · Open Source
 
 Ferramentas que resolvi construir porque sentia a dor de não ter — cada uma resolve um problema específico do dia a dia de dev backend.
 
@@ -79,6 +106,7 @@ Ferramentas que resolvi construir porque sentia a dor de não ter — cada uma r
 | **DocGen** | Gera documentação Markdown completa do projeto com um comando |
 | **Constructor** | Gera constructors, getters, setters e interfaces pra 5 linguagens |
 | **Constellation Project Creator** | Cria estrutura completa de projeto (MVC/DDD/Clean/Hexagonal) |
+| **Constellation Fullstack** | Gera projeto fullstack completo — frontend + backend com um comando |
 | **SQL to Model** | Converte CREATE TABLE SQL em entidade JPA, TS interface ou JS |
 | **Model to JSON/XML** | Gera schema de teste a partir de models e classes |
 | **Basic CRUD Generator** | Gera CRUD completo pra Express, Spark, Slim e ASP.NET |
