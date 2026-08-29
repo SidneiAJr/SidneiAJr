@@ -86,6 +86,8 @@ Middleware de segurança completo para Express em uma linha de configuração.
 - Token Vault com rotação automática de chaves HMAC — zero configuração
 - JWT com fingerprint binding e timing-safe comparison
 
+---
+
 ### 🌌 Constellation CLI — Gerador de Projetos Backend
 `Node.js` `Bash` `CLI` `Open Source`
 
