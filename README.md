@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Desenvolvedor backend com foco em **Java/Spring Boot** e **TypeScript/Express** — construo sistemas, ferramentas e automações que resolvem problemas reais.
+Sou Desenvolvedor backend com foco em **Java/Spring Boot** e **TypeScript/Express** — construo sistemas, ferramentas e automações que resolvem problemas reais.
 
 Formação em Análise e Desenvolvimento de Sistemas e Segurança da Informação. Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac RS.
 
