@@ -1,4 +1,4 @@
-<h1 align="center">Sidnei Junior · SidA · Albertaodasmassa</h1>
+<h1 align="center">Sidnei Junior | SidA | Albertaodasmassa</h1>
 <h3 align="center">Backend Developer · Java/Spring · TypeScript/Express · Ferramentas pra Devs</h3>
 
 <p align="center">
@@ -67,7 +67,7 @@ Backend completo para monitoramento de níveis de rios em apoio à Defesa Civil 
 
 ---
 
-## 📦 Pacotes npm — Em Desenvolvimento
+## 📦 Pacotes npm | Em Desenvolvimento | Ainda Não postado
 
 > Prontos e funcionais, ainda não publicados no npm.
 
@@ -86,10 +86,16 @@ Middleware de segurança completo para Express em uma linha de configuração.
 - Token Vault com rotação automática de chaves HMAC — zero configuração
 - JWT com fingerprint binding e timing-safe comparison
 
-```bash
-# futuro
-npm install elisyum
-```
+### 🌌 Constellation CLI — Gerador de Projetos Backend
+`Node.js` `Bash` `CLI` `Open Source`
+
+CLI que gera estrutura backend completa com menus interativos.
+
+- 5 linguagens: JS, TS, Java Spring Boot, PHP, C#
+- 4 arquiteturas: MVC, DDD, Clean, Hexagonal
+- 3 níveis de dependência: Básico, Avançado, Enterprise
+
+🔗 [Repositório](https://github.com/SidneiAJr/constellation-cli) · 🌐 [Site](https://constelationclisite.vercel.app)
 
 ---
 
@@ -115,21 +121,6 @@ Ferramentas que resolvi construir porque sentia a dor de não ter — cada uma r
 | **Commit Generator** | Commits padronizados com Conventional Commits |
 
 🔗 [Ver todas no Marketplace](https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa)
-
----
-
-## Outros Projetos
-
-### 🌌 Constellation CLI — Gerador de Projetos Backend
-`Node.js` `Bash` `CLI` `Open Source`
-
-CLI que gera estrutura backend completa com menus interativos.
-
-- 5 linguagens: JS, TS, Java Spring Boot, PHP, C#
-- 4 arquiteturas: MVC, DDD, Clean, Hexagonal
-- 3 níveis de dependência: Básico, Avançado, Enterprise
-
-🔗 [Repositório](https://github.com/SidneiAJr/constellation-cli) · 🌐 [Site](https://constelationclisite.vercel.app)
 
 ---
 
