@@ -11,6 +11,9 @@
   <a href="https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa">
     <img src="https://img.shields.io/badge/VS%20Code%20Marketplace-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </a>
+  <a href="https://www.npmjs.com/~albertaodasmassa">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  </a>
 </p>
 
 ---
