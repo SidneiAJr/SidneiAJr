@@ -22,8 +22,8 @@ Sou Desenvolvedor backend com foco em **Java/Spring Boot** e **TypeScript/Expres
 Formação em Análise e Desenvolvimento de Sistemas e Segurança da Informação. Atualmente cursando Técnico em Desenvolvimento de Sistemas no Senac RS.
 
 - 🏆 Projeto indicado à **LatinoWare**
-- 🐺 **12 extensões publicadas** no VS Code Marketplace — ecossistema Albertool
-- 📦 Pacotes npm em desenvolvimento — ainda não publicados
+- 🐺 **9 extensões publicadas** no VS Code Marketplace | ecossistema Albertool
+- 📦 Pacotes npm publicados
 - 🎯 Buscando primeira oportunidade como **Dev Júnior** em backend · Remoto ou presencial no RS
 
 > *"Preguiça? Chama de eficiência." — Albertool*
@@ -67,43 +67,15 @@ Backend completo para monitoramento de níveis de rios em apoio à Defesa Civil 
 
 ---
 
-## 📦 Pacotes npm | Em Desenvolvimento | Ainda Não postado
-
-> Prontos e funcionais, ainda não publicados no npm.
-
-### 🏛️ Elisyum — WAF Middleware para Express
-`TypeScript` `Express` `Segurança`
-
-Middleware de segurança completo para Express em uma linha de configuração.
-
-- **Cérbero** — Whitelist / Blacklist / Ban temporário por IP
-- **Caronte** — Rate limiting por IP
-- **Némesis** — WAF: XSS, SQLi, Command Injection, Header Injection
-- **Hidra** — Detecção de Slowloris e Request Smuggling
-- **Atlas** — Enforçamento HTTP/HTTPS
-- **Inteligência** — Score heurístico: bane comportamento suspeito automaticamente
-- **Morfeu** — Callbacks e alertas em eventos de ban
-- Token Vault com rotação automática de chaves HMAC — zero configuração
-- JWT com fingerprint binding e timing-safe comparison
-
----
-
-### 🌌 Constellation CLI — Gerador de Projetos Backend
-`Node.js` `Bash` `CLI` `Open Source`
-
-CLI que gera estrutura backend completa com menus interativos.
-
-- 5 linguagens: JS, TS, Java Spring Boot, PHP, C#
-- 4 arquiteturas: MVC, DDD, Clean, Hexagonal
-- 3 níveis de dependência: Básico, Avançado, Enterprise
-
-🔗 [Repositório](https://github.com/SidneiAJr/constellation-cli) · 🌐 [Site](https://constelationclisite.vercel.app)
+## 📦 Pacotes npm
+- **[constellation-cli-albertool](https://www.npmjs.com/package/constellation-cli-albertool)** — Gerador de projetos multi-arquitetura (MVC, DDD, Clean, Hexagonal) para JS, TS, Java, PHP e C#
+- **[albertool-basic](https://www.npmjs.com/package/albertool-basic)** — Gerador de rotas CRUD skeleton para JS, TS, PHP e Java
 
 ---
 
 ## 🐺 Albertool — Ecossistema de Extensões VS Code
 
-> **12 extensões publicadas** · Publisher: SidAlbertaodasmassa · Open Source
+> **9 extensões publicadas** · Publisher: SidAlbertaodasmassa · Open Source
 
 Ferramentas que resolvi construir porque sentia a dor de não ter — cada uma resolve um problema específico do dia a dia de dev backend.
 
@@ -114,12 +86,9 @@ Ferramentas que resolvi construir porque sentia a dor de não ter — cada uma r
 | **DocGen** | Gera documentação Markdown completa do projeto com um comando |
 | **Constructor** | Gera constructors, getters, setters e interfaces pra 5 linguagens |
 | **Constellation Project Creator** | Cria estrutura completa de projeto (MVC/DDD/Clean/Hexagonal) |
-| **Constellation Fullstack** | Gera projeto fullstack completo — frontend + backend com um comando |
 | **SQL to Model** | Converte CREATE TABLE SQL em entidade JPA, TS interface ou JS |
 | **Model to JSON/XML** | Gera schema de teste a partir de models e classes |
 | **Basic CRUD Generator** | Gera CRUD completo pra Express, Spark, Slim e ASP.NET |
-| **Docker Monitor** | Monitora containers, CPU e RAM direto na sidebar |
-| **Port Killer** | Mata processo por porta sem abrir terminal |
 | **Commit Generator** | Commits padronizados com Conventional Commits |
 
 🔗 [Ver todas no Marketplace](https://marketplace.visualstudio.com/publishers/SidAlbertaodasmassa)
