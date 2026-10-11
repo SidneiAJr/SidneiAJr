@@ -1,3 +1,15 @@
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight&hide=issues&count_private=true"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SidneiAJr&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8"/>
+</p>
+
+---
+
 <h1 align="center">Sidnei Junior | SidA | Albertaodasmassa</h1>
 <h3 align="center">Backend Developer · Java/Spring · TypeScript/Express · Ferramentas pra Devs</h3>
 
@@ -89,17 +101,8 @@ Backend para monitoramento de níveis de rios em apoio à Defesa Civil do RS | d
 - **[constellation-cli-albertool](https://www.npmjs.com/package/constellation-cli-albertool)** — Gerador de projetos multi-arquitetura (MVC, DDD, Clean, Hexagonal) para JS, TS, Java, PHP e C#
 - **[albertool-basic](https://www.npmjs.com/package/albertool-basic)** — Gerador de rotas CRUD skeleton para JS, TS, PHP e Java
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=SidneiAJr&show_icons=true&theme=tokyonight&hide=issues&count_private=true"/>
-  &nbsp;
-  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SidneiAJr&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8"/>
-</p>
-
----
+----
 
 <p align="center">
   ⭐ Se alguma extensão ou projeto te ajudou, uma estrela no repo ajuda muito na visibilidade — valeu!
