@@ -34,14 +34,14 @@ Construo ferramentas open source pra facilitar a vida de outros devs — desde g
 ## Projetos em Destaque
 
 ### 🌊 HydroRS · 🏆 Indicado à LatinoWare
-Backend para monitoramento de níveis de rios em apoio à Defesa Civil do RS — dados climáticos em tempo real, simulação hidrológica e segurança testada.
+Backend para monitoramento de níveis de rios em apoio à Defesa Civil do RS | dados climáticos em tempo real, simulação hidrológica e segurança testada.
 
 🔗 [hydrorsweb.vercel.app](https://hydrorsweb.vercel.app/)
 
 ---
 
 ### 🗺️ MonitoraRS
-Painel público com monitoramento em tempo real de nível, chuva e atividade sísmica no RS — 9 modelos meteorológicos globais e histórico contínuo de 24h.
+Painel público com monitoramento em tempo real de nível, chuva e atividade sísmica no RS | 9 modelos meteorológicos globais e histórico contínuo de 24h.
 
 🔗 [simulario.vercel.app](https://simulario.vercel.app/)
 
