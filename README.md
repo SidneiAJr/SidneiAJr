@@ -40,13 +40,6 @@ Backend para monitoramento de níveis de rios em apoio à Defesa Civil do RS | d
 
 ---
 
-### 🗺️ MonitoraRS
-Painel público com monitoramento em tempo real de nível, chuva e atividade sísmica no RS | 9 modelos meteorológicos globais e histórico contínuo de 24h.
-
-🔗 [simulario.vercel.app](https://simulario.vercel.app/)
-
----
-
 ## Stack
 
 <p align="center">
